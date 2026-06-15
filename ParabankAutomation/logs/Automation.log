@@ -1,0 +1,96 @@
+2026-06-15 23:18:01 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:18:06 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:18:12 [main] INFO  pages.RegistrationPage - Clicking Register Button
+2026-06-15 23:18:17 [main] INFO  pages.RegistrationPage - Entering Registration Details
+2026-06-15 23:18:21 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:18:21 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:18:23 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:18:32 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:18:32 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:18:32 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:18:37 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:18:38 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:18:39 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:18:47 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:18:47 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:18:47 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:18:53 [main] INFO  pages.BillPage - Opening Bill Pay Page
+2026-06-15 23:18:57 [main] INFO  pages.BillPage - Entering Payee Information
+2026-06-15 23:18:59 [main] INFO  pages.BillPage - Sending Bill Payment
+2026-06-15 23:19:04 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:19:04 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:19:06 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:19:16 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:19:16 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:19:17 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:19:24 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:19:24 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:19:26 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:19:34 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:19:34 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:19:34 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:19:42 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:32:49 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:32:52 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:32:56 [main] INFO  pages.RegistrationPage - Clicking Register Button
+2026-06-15 23:33:01 [main] INFO  pages.RegistrationPage - Entering Registration Details
+2026-06-15 23:33:04 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:33:05 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:33:07 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:33:12 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:33:23 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:33:24 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:33:30 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:33:31 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:33:33 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:33:43 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:33:43 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:33:43 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:33:52 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:33:53 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:33:54 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:34:00 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:34:01 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:34:01 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:34:06 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:34:07 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:34:09 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:34:40 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:34:40 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:34:41 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:34:50 [main] INFO  pages.BillPage - Opening Bill Pay Page
+2026-06-15 23:34:52 [main] INFO  pages.BillPage - Entering Payee Information
+2026-06-15 23:34:53 [main] INFO  pages.BillPage - Sending Bill Payment
+2026-06-15 23:34:58 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:46:01 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:46:04 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:46:07 [main] INFO  pages.RegistrationPage - Clicking Register Button
+2026-06-15 23:46:08 [main] INFO  pages.RegistrationPage - Entering Registration Details
+2026-06-15 23:46:10 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:46:10 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:46:12 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:46:17 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:46:17 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:46:18 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:46:21 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:46:22 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:46:23 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:46:27 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:46:27 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:46:28 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:46:32 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:46:32 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:46:34 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:46:44 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:46:44 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:46:44 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:46:48 [main] INFO  base.BaseFile - Closing Browser
+2026-06-15 23:46:49 [main] INFO  base.BaseFile - Launching Browser: chrome
+2026-06-15 23:46:50 [main] INFO  base.BaseFile - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2026-06-15 23:47:09 [main] INFO  pages.LoginPage - Entering Username
+2026-06-15 23:47:09 [main] INFO  pages.LoginPage - Entering Passwprd
+2026-06-15 23:47:09 [main] INFO  pages.LoginPage - Click Login Button
+2026-06-15 23:47:14 [main] INFO  pages.BillPage - Opening Bill Pay Page
+2026-06-15 23:47:17 [main] INFO  pages.BillPage - Entering Payee Information
+2026-06-15 23:47:18 [main] INFO  pages.BillPage - Sending Bill Payment
+2026-06-15 23:47:23 [main] INFO  base.BaseFile - Closing Browser
